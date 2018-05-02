@@ -142,8 +142,7 @@
             
             C++ 문법(Syntax) 
                   
-            C++ 클래스 기본 구조 - Class 멤버
-      (Type Names, Enumeration, Nested Class, Member Function, Bit Fields, Friend) 
+            C++ 클래스 기본 구조 - Class 멤버(Type Names, Enumeration, Nested Class, Member Function, Bit Fields, Friend) 
       
             C++ 클래스 응용구조 - 상속, 추상화 클래스, 오버라이딩, RTII 
             
