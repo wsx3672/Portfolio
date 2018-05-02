@@ -31,7 +31,8 @@
 
 
 
-### Library
+## Library
+
 [Array (바로가기)]
 
 [LinkedList (바로가기)]
