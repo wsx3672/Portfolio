@@ -205,48 +205,48 @@
       
 * 4단계(4주) :
 
-     * 객체지향 방법론 & 객체지향 프로그래밍 
+     * 객체지향 방법론 & 객체지향 프로그래밍 
       
-            객체지향 모델의 구성 개념 이해 
+               객체지향 모델의 구성 개념 이해 
             
-            객체지향 개발 절차(RUP:Rational Unified Processing)이해 
+               객체지향 개발 절차(RUP:Rational Unified Processing)이해 
             
-            사용자 요구사항 분석 - Use Case Modeling 
+               사용자 요구사항 분석 - Use Case Modeling 
             
-            정적 모델링 - Class Diagram 작성기법 
+               정적 모델링 - Class Diagram 작성기법 
             
-            동적 모델링 - Sequence Diagram / Collaboration Diagram 작성기법 
+               동적 모델링 - Sequence Diagram / Collaboration Diagram 작성기법 
             
-            객체지향 설계 이해 
+               객체지향 설계 이해 
             
-* 5단계( 8주 ) :
+* 5단계(8주) :
 
    * 실무 프로젝트 - OJT : 8주 
    
-            소프트웨어 공학의 개념 
+             소프트웨어 공학의 개념 
             
-            S/W Development Life Cycle(SDLC) 
+             S/W Development Life Cycle(SDLC) 
             
-            시스템 분석/설계의 도구 
+             시스템 분석/설계의 도구 
             
-          Client/Server, CASE Tool 
+             Client/Server, CASE Tool 
           
-          Web Programming 
+             Web Programming 
           
-          Data Modeling 및 DB 설계 
+             Data Modeling 및 DB 설계 
           
-          실무 업무 조사(기초 조사), 타당성 조사, Project 계획 
+             실무 업무 조사(기초 조사), 타당성 조사, Project 계획 
           
-          현행 시스템 이해 및 요구사항 분석
-          
-          (정보공학 방법론 및 객체지향 방법론의 적용) 
+             현행 시스템 이해 및 요구사항 분석
+            
+             (정보공학 방법론 및 객체지향 방법론의 적용) 
 
-          ProtoType 구현과 Detail Design 및 실습 
+             ProtoType 구현과 Detail Design 및 실습 
           
-          Coding 및 Module test의 개념 및 실습 
+             Coding 및 Module test의 개념 및 실습 
           
-          System Test 개념 및 통합, 실습 
+            System Test 개념 및 통합, 실습 
           
-          사용자 매뉴얼 및 프로그램 개발 Documentat
+            사용자 매뉴얼 및 프로그램 개발 Documentat
  
-          Demonstration(Project 발표 및 평가회) 
+            Demonstration(Project 발표 및 평가회) 
