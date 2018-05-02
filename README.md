@@ -33,11 +33,11 @@
 
 ## Library
 
-[Array (바로가기)]
+[Array (바로가기)](https://github.com/wsx3672/Project/tree/master/Data%20Structure/Array)
 
-[LinkedList (바로가기)]
+[LinkedList (바로가기)](https://github.com/wsx3672/Project/tree/master/Data%20Structure/LinkedList)
 
-[binaryTree (바로가기)]
+[binaryTree (바로가기)](https://github.com/wsx3672/Project/tree/master/Data%20Structure/BinaryTree)
 
 ## 박컴학원 교육 내용
 
