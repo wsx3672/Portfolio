@@ -31,7 +31,7 @@
 
 
 
-## Library
+## Library 설계
 
 [Array (바로가기)](https://github.com/wsx3672/Project/tree/master/Data%20Structure/Array)
 
