@@ -39,6 +39,21 @@
 
 [binaryTree (바로가기)](https://github.com/wsx3672/Project/tree/master/Data%20Structure/BinaryTree)
 
+## Mini Project
+
+[AddressBook_C (바로가기).](https://github.com/wsx3672/Project/tree/master/C/Address%20Book)
+
+[WordBook_C (바로가기).](https://github.com/wsx3672/Project/tree/master/C/Word%20Book)
+
+[BusinessCardBinder_C (바로가기).](https://github.com/wsx3672/Project/tree/master/C/BusinessCard%20Binder)
+
+[AddressBook_C++ (바로가기).](https://github.com/wsx3672/Project/tree/master/C%2B%2B/Address%20Book)
+
+[WordBook_C++ (바로가기).](https://github.com/wsx3672/Project/tree/master/C%2B%2B/Word%20Book)
+
+[BusinessCardBinder_C++ (바로가기).](https://github.com/wsx3672/Project/tree/master/C%2B%2B/BusinessCard%20Binder)
+
+
 ## 박컴학원 교육 내용
 
 
